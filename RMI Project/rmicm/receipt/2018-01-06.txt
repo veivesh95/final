@@ -1,0 +1,204 @@
+
+
+1.  Can:  20
+
+
+Transaction Receipt
+2018/01/06 -- 13:47:46
+ --------------------------------
+Number of Cans: 1
+Number of Bottles: 0
+Number of Paperbags: 0
+Number of Crates: 0
+ --------------------------------
+Total: 20
+
+
+
+1.  Glass_Bottle:  30
+
+
+Transaction Receipt
+2018/01/06 -- 13:47:50
+ --------------------------------
+Number of Cans: 1
+Number of Bottles: 1
+Number of Paperbags: 0
+Number of Crates: 0
+ --------------------------------
+Total: 30
+
+
+
+1.  Glass_Bottle:  30
+2.  Paperbag:  10
+
+
+Transaction Receipt
+2018/01/06 -- 13:51:39
+ --------------------------------
+Number of Cans: 0
+Number of Bottles: 1
+Number of Paperbags: 1
+Number of Crates: 0
+ --------------------------------
+Total: 40
+
+
+
+1.  Crate:  40
+2.  Paperbag:  10
+3.  Plastic_Bottle:  15
+4.  Can:  20
+
+
+Transaction Receipt
+2018/01/06 -- 14:25:41
+ --------------------------------
+Number of Cans: 1
+Number of Bottles: 1
+Number of Paperbags: 1
+Number of Crates: 1
+ --------------------------------
+Total: 85
+
+
+
+1.  Glass_Bottle:  30
+2.  Paperbag:  10
+3.  Plastic_Bottle:  15
+
+
+Transaction Receipt
+2018/01/06 -- 14:38:31
+ --------------------------------
+Number of Cans: 0
+Number of Bottles: 2
+Number of Paperbags: 1
+Number of Crates: 0
+ --------------------------------
+Total: 55
+
+
+
+1.  Can:  20
+2.  Glass_Bottle:  30
+3.  Paperbag:  10
+
+
+Transaction Receipt
+2018/01/06 -- 14:41:31
+ --------------------------------
+Number of Cans: 1
+Number of Bottles: 1
+Number of Paperbags: 1
+Number of Crates: 0
+ --------------------------------
+Total: 60
+
+
+
+1.  Paperbag:  10
+
+
+Transaction Receipt
+2018/01/06 -- 14:46:52
+ --------------------------------
+Number of Cans: 0
+Number of Bottles: 0
+Number of Paperbags: 1
+Number of Crates: 0
+ --------------------------------
+Total: 10
+
+
+
+1.  Crate:  40
+2.  Plastic_Bottle:  15
+3.  Glass_Bottle:  30
+4.  Paperbag:  10
+5.  Crate:  40
+6.  Plastic_Bottle:  15
+7.  Paperbag:  10
+8.  Crate:  40
+
+
+Transaction Receipt
+2018/01/06 -- 14:48:25
+ --------------------------------
+Number of Cans: 0
+Number of Bottles: 3
+Number of Paperbags: 3
+Number of Crates: 3
+ --------------------------------
+Total: 200
+
+
+********* Machine Reset at 2018/01/06 -- 14:51:02 *********
+
+
+1.  Crate:  40
+2.  Glass_Bottle:  30
+3.  Paperbag:  10
+
+
+Transaction Receipt
+2018/01/06 -- 14:53:03
+ --------------------------------
+Number of Cans: 0
+Number of Bottles: 1
+Number of Paperbags: 1
+Number of Crates: 1
+ --------------------------------
+Total: 80
+
+
+
+1.  Glass_Bottle:  30
+2.  Paperbag:  10
+3.  Plastic_Bottle:  15
+4.  Crate:  40
+
+
+Transaction Receipt
+2018/01/06 -- 15:00:31
+ --------------------------------
+Number of Cans: 0
+Number of Bottles: 2
+Number of Paperbags: 1
+Number of Crates: 1
+ --------------------------------
+Total: 95
+
+
+
+1.  Crate:  40
+
+
+Transaction Receipt
+2018/01/06 -- 15:02:32
+ --------------------------------
+Number of Cans: 0
+Number of Bottles: 0
+Number of Paperbags: 0
+Number of Crates: 1
+ --------------------------------
+Total: 40
+
+
+
+1.  Crate:  50
+
+
+Transaction Receipt
+2018/01/06 -- 15:02:50
+ --------------------------------
+Number of Cans: 0
+Number of Bottles: 0
+Number of Paperbags: 0
+Number of Crates: 2
+ --------------------------------
+Total: 50
+
+
+********* Machine Reset at 2018/01/06 -- 15:03:26 *********
